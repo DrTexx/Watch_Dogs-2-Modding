@@ -1,4 +1,6 @@
-# Watch_Dogs 2 CRC32 Dump - Master
+# Watch_Dogs 2 Modding Resources
+
+## Collaborative Filelist
 
 Please see [filelist.txt](filelist.txt) for the current filelist master.
 
