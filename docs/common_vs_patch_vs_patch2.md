@@ -7,7 +7,7 @@
 
 ## Background
 
-The list below contains the results from a recursive scan for files in common.fat that can also be found in patch.fat or patch2.fat.
+The list below contains the results from a recursive scan for files in common.fat that can also be found in patch.fat and/or patch2.fat.
 
 The list starts with unresolved offsets (e.g. `0xA012855CE105BD68`) that haven't been transformed into filepaths (e.g. `generated\databases\generic\boat.lib`), however after these offset entries there are a lot of regular filepaths.
 
