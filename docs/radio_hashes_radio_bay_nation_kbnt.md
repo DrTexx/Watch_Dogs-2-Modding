@@ -1,6 +1,12 @@
 # Radio Bay Nation KBNT - Song Hashes
 
-**All credit goes to `Cali Sav` from the modding Discord for collecting these hashes**, this is purely a mirror of their work for archival and pull requests 
+## Credit
+
+All credit goes to **`Señor Monster / Cali Sav`** (modding Discord).
+
+This is purely a mirror of their work for archival and pull requests.
+
+## Hash Paste
 
 | Artist            | Song Name                  | ID (1536kbps)<br/>Stereo 48.000kHz<br/>[Radio & Playlist] | ID (1411kbps)<br/>Stereo 44.100kHz<br/>[Missions maybe?] | ID (768kbps)<br/>Mono 48.000kHz</br>[Passing Vehicles] |
 | ----------------- | -------------------------- | --------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
