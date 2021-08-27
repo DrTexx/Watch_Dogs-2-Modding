@@ -2,12 +2,11 @@
 
 ## Credit
 
-All credit goes to **`Señor Monster / Cali Sav`** (modding Discord).
+All credit goes to **`Cali Sav / Wakka387`** (modding Discord).
 
 This is purely a mirror of their work for archival and pull requests.
 
 ## Hash Paste
-
 | Artist            | Song Name                  | ID (1536kbps)<br/>Stereo 48.000kHz<br/>[Radio & Playlist] | ID (1411kbps)<br/>Stereo 44.100kHz<br/>[Missions maybe?] | ID (768kbps)<br/>Mono 48.000kHz</br>[Passing Vehicles] |
 | ----------------- | -------------------------- | --------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ |
 | C-Kan             | La Calle Sabe De Mi Nombre | 191814515                                                 | ?                                                        | 153619937 & 1022754608                                 |
